@@ -1,4 +1,4 @@
-
+# 衣柜类定义
 class closet(object):
     def __init__(self, width, height, depth):
         self.width = width          # 衣柜宽度
